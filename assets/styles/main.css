@@ -1,1 +1,9 @@
 /* Base styles for blog */
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+footer a {
+  color: #333;
+  text-decoration: none;
+}
