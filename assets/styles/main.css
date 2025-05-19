@@ -1,1 +1,4 @@
 /* Base styles for blog */
+header {
+  margin-bottom: 16px;
+}
